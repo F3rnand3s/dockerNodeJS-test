@@ -1,2 +1,7 @@
 # dockerNodeJS-test
-Trying to run a docker image along with a simple nodeJS app
+Attempt to create a Docker image to run a simple nodeJS app
+
+**Helpfull Commands:**
+* docker build -t f3rnand3s/dockernodejs-test .
+* docker run -p 3000:3000 -d f3rnand3s/dockernodejs-test
+* docker-compose up
