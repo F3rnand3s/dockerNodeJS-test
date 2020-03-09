@@ -1,2 +1,2 @@
 # dockerNodeJS-test
-Trying to run a docker image along with a simple nodeJS app
+Attempt to create a Docker image to run a simple nodeJS app
