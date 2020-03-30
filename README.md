@@ -7,5 +7,6 @@ This repo was made with the purpose of testing various CI/CD tools.
 * docker run -p 3000:3000 -d f3rnand3s/dockernodejs-test
 * docker-compose up
 
-+ Buddy was used sucessfully
-+ TravisCI was used Sucessfully
+CI/CD tools tested: 
+Buddy
+TravisCI
