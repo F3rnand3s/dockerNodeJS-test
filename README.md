@@ -8,5 +8,4 @@ This repo was made with the purpose of testing various CI/CD tools.
 * docker-compose up
 
 CI/CD tools tested: 
-Buddy
-TravisCI
+Buddy, TravisCI
