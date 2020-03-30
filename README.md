@@ -1,9 +1,6 @@
 # dockerNodeJS-test
-This NodeJs can be built into a Docker Image using the: 
-Dockerfile;
-Docker-Compose;
-
-This image was made with the purpose of testing
+This NodeJs can be built into a Docker Image using the: Dockerfile, Docker-Compose.
+This repo was made with the purpose of testing various CI/CD tools.
 
 **Helpfull Commands:**
 * docker build -t f3rnand3s/dockernodejs-test .
